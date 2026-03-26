@@ -9,7 +9,6 @@ env/
 dist/
 build/
 .ipynb_checkpoints/
-*.ipynb
 
 .DS_Store
 Thumbs.db
